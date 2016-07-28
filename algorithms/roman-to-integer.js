@@ -24,6 +24,7 @@ var romanToInt = function(s) {
   var total = 0;
   var curr;
   var next;
+  var i;
 
   for (i = 0; i < s.length; i++) {
     curr = digits[s[i]];
