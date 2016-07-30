@@ -20,7 +20,9 @@ var singleNumber = function(nums) {
     return obj;
   }, {});
 
-  for (var key in dict) {
+  var key;
+
+  for (key in dict) {
     if (dict[key]) {
       return +key;
     }

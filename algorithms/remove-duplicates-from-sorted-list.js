@@ -22,11 +22,11 @@
  * @return {ListNode}
  */
 var deleteDuplicates = function(head) {
+  var node = head;
+
   if (!head) {
     return null;
   }
-
-  var node = head;
 
   while (node.next) {
     if (node.val !== node.next.val) {

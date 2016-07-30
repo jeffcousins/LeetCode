@@ -14,11 +14,13 @@
  * @return {number}
  */
 var addDigits = function(num) {
+  var digits;
+
   if (num < 10) {
     return num;
   }
 
-  var digits = num.toString().split('');
+  digits = num.toString().split('');
 
   return addDigits(digits.reduce(function(sum, digit) {
     return sum + Number(digit);

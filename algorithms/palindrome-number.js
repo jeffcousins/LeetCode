@@ -10,12 +10,12 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-  x = x.toString();
+  var str = x.toString();
   var i = 0;
-  var j = x.length - 1;
+  var j = str.length - 1;
 
   while (i < j) {
-    if (x[i] !== x[j]) {
+    if (str[i] !== str[j]) {
       return false;
     }
 

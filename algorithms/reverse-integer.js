@@ -12,12 +12,14 @@
  * @return {number}
  */
 var reverse = function(x) {
+  var MAX_32_BIT = 2147483647;
+  var result;
+
   if (x < 0) {
     return -1 * reverse(-x);
   }
 
-  var MAX_32_BIT = 2147483647;
-  var result = Number(x.toString().split('').reverse().join(''));
+  result = Number(x.toString().split('').reverse().join(''));
 
   if (result > MAX_32_BIT) {
     return 0;

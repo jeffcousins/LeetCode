@@ -11,6 +11,7 @@
  * @return {number}
  */
 var romanToInt = function(s) {
+  var total = 0;
   var digits = {
     I: 1,
     V: 5,
@@ -21,7 +22,6 @@ var romanToInt = function(s) {
     M: 1000
   };
 
-  var total = 0;
   var curr;
   var next;
   var i;

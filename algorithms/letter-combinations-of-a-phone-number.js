@@ -18,6 +18,8 @@
  * @return {string[]}
  */
 var letterCombinations = function(digits) {
+  var len = digits.length;
+  var results = [];
   var phoneMap = {
     2: 'abc',
     3: 'def',
@@ -28,9 +30,6 @@ var letterCombinations = function(digits) {
     8: 'tuv',
     9: 'wxyz'
   };
-
-  var results = [];
-  var len = digits.length;
 
   if (len === 0) {
     return results;
@@ -50,9 +49,10 @@ var letterCombinations = function(digits) {
     }
 
     options = phoneMap[remaining[0]];
+    remaining = remaining.slice(1);
 
     for (i = 0; i < options.length; i++) {
-      makeCombos(current + options[i], remaining.slice(1));
+      makeCombos(current + options[i], remaining);
     }
   })('', digits);
 
