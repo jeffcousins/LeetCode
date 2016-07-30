@@ -14,6 +14,7 @@ My solutions to LeetCode Problems
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [JavaScript](./algorithms/letter-combinations-of-a-phone-number.js) |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./algorithms/valid-parentheses.js) |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./algorithms/merge-two-sorted-lists.js) |
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./algorithms/remove-element.js) |
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](./algorithms/remove-duplicates-from-sorted-list.js) |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](./algorithms/maximum-depth-of-binary-tree.js) |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./algorithms/single-number.js) |
