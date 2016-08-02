@@ -11,6 +11,7 @@ My solutions to various toy problems.
 | # | Title | Solutions |
 |---| ----- | --------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./leetcode/two-sum.js) |
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./leetcode/longest-substring-without-repeating-characters.js) |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./leetcode/reverse-integer.js) |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./leetcode/palindrome-number.js) |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./leetcode/roman-to-integer.js) |
