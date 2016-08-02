@@ -21,6 +21,7 @@ My solutions to various toy problems.
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./leetcode/remove-element.js) |
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](./leetcode/count-and-say.js) |
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](./leetcode/remove-duplicates-from-sorted-list.js) |
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [JavaScript](./leetcode/symmetric-tree.js) |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](./leetcode/maximum-depth-of-binary-tree.js) |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./leetcode/single-number.js) |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JavaScript](./leetcode/invert-binary-tree.js) |
