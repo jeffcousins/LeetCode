@@ -16,6 +16,7 @@ My solutions to various toy problems.
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./leetcode/palindrome-number.js) |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./leetcode/roman-to-integer.js) |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [JavaScript](./leetcode/letter-combinations-of-a-phone-number.js) |
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](./leetcode/remove-nth-node-from-end-of-list.js) |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./leetcode/valid-parentheses.js) |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./leetcode/merge-two-sorted-lists.js) |
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-gin-pairs/) | [JavaScript](./leetcode/swap-nodes-in-pairs.js) |
