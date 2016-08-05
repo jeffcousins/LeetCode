@@ -22,6 +22,7 @@ My solutions to various toy problems.
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-gin-pairs/) | [JavaScript](./leetcode/swap-nodes-in-pairs.js) |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./leetcode/remove-element.js) |
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](./leetcode/count-and-say.js) |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./leetcode/maximum-subarray.js) |
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [JavaScript](./leetcode/subsets.js) |
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](./leetcode/remove-duplicates-from-sorted-list.js) |
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./leetcode/merge-sorted-array.js) |
