@@ -21,6 +21,7 @@ My solutions to various toy problems.
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./leetcode/merge-two-sorted-lists.js) |
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-gin-pairs/) | [JavaScript](./leetcode/swap-nodes-in-pairs.js) |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./leetcode/remove-element.js) |
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JavaScript](./leetcode/search-for-a-range.js) |
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](./leetcode/count-and-say.js) |
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](./leetcode/permutations.js) |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./leetcode/maximum-subarray.js) |
